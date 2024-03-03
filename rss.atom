@@ -1,0 +1,111 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<!--  Generated on Sun, 03 Mar 2024 11:17:18 -0500  -->
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<atom:link href="https://store.steampowered.com/news/app/2670630/" rel="self" type="application/rss+xml"/>
+<title>2670630 RSS Feed</title>
+<link>
+<![CDATA[ https://store.steampowered.com/news/app/2670630/ ]]>
+</link>
+<description>
+<![CDATA[ Events and Announcements for 2670630 ]]>
+</description>
+<language>en-us</language>
+<generator>Steam News RSS</generator>
+<item>
+<title>Patch v0.1.0.5</title>
+<description><div class="bb_h2">Hello everyone!</div><br><div class="bb_h2">Thank you for playing Supermarket Simulator.</div><br>Here's the patch notes for v0.1.0.5:<br><br><ul class="bb_ul"><li> Performance optimization, especially when lights are on<br></li><li> Fixed a bug causing corrupting the save file<br></li><li> Fixed customers soft-locking when moving a checkout<br></li><li> Fixed price tag of fridge blocking when moving a fridge that's causing the fridge to get close to the camera<br></li><li> Fixed cashier UI showing hiring cost wrong<br></li><li> Fixed cars getting stuck<br></li><li> Fixed UI mispositioning on widescreen</li></ul><br>Please let us know when you encounter any issue on our Discord or Steam community so that we can fix it asap.<br><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.com%2Finvite%2FxWD5BfNMMM" target="_blank" rel=" noopener" ><img src="https://clan.akamai.steamstatic.com/images/44731615/122a4bdecba327053fe91125b76cb0ee9dfb75a1.png" /></a><br><br><div class="bb_h3">Thank you and have fun!</div></description>
+<link>
+<![CDATA[ https://store.steampowered.com/news/app/2670630/view/4150700295735602558 ]]>
+</link>
+<pubDate>Tue, 27 Feb 2024 00:25:26 +0000</pubDate>
+<guid isPermaLink="true">https://store.steampowered.com/news/app/2670630/view/4150700295735602558</guid>
+</item>
+<item>
+<title>Patch v0.1.0.4</title>
+<description><div class="bb_h2">Hello everyone!</div><br><div class="bb_h2">Thank you for playing Supermarket Simulator.</div><br>Here's the patch notes for v0.1.0.4:<br><br><ul class="bb_ul"><li> Fixed lighting artifacts and performance improvement<br></li><li> Removed customers asking for items from locked licenses<br></li><li> Switched electric bills to be calculated only during the day. The bills won't increase when you take too long to restock before or after the day, from now on.<br></li><li> Reduced bank loan interests<br></li><li> Reduced the cost of purchasing storage area<br></li><li> Visual bugFixes<br></li><li> Translation fixes</li></ul><br>Please let us know when you encounter any issue on our Discord or Steam community so that we can fix it asap.<br><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.com%2Finvite%2FxWD5BfNMMM" target="_blank" rel=" noopener" ><img src="https://clan.akamai.steamstatic.com/images/44731615/122a4bdecba327053fe91125b76cb0ee9dfb75a1.png" /></a><br><br><div class="bb_h3">Thank you and have fun!</div></description>
+<link>
+<![CDATA[ https://store.steampowered.com/news/app/2670630/view/4150700295724934278 ]]>
+</link>
+<pubDate>Sat, 24 Feb 2024 01:34:05 +0000</pubDate>
+<guid isPermaLink="true">https://store.steampowered.com/news/app/2670630/view/4150700295724934278</guid>
+</item>
+<item>
+<title>Patch v0.1.0.3</title>
+<description><div class="bb_h2">Hello everyone!</div><br><div class="bb_h2">Thank you for playing Supermarket Simulator.</div><br>Here are the patch notes for v0.1.0.3:<br><br><ul class="bb_ul"><li> Fixed products are not coming to market after purchased license<br></li><li> Fixed customers are not coming some days<br></li><li> Balanced customer demands to be more reasonable<br></li><li> Fixed duplicating store lights<br></li><li> Fixed cashier not moving when moving the checkout counter<br></li><li> Visual bugFixes<br></li><li> Balanced black tea to purchase and place less amount<br></li><li> Fixed typos and missing characters in Simplified Chinese, Japanese & Korean</li></ul><br>Please let us know when you encounter any issue on our Discord or Steam community so that we can fix it asap.<br><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.com%2Finvite%2FxWD5BfNMMM" target="_blank" rel=" noopener" ><img src="https://clan.akamai.steamstatic.com/images/44731615/122a4bdecba327053fe91125b76cb0ee9dfb75a1.png" /></a><br><br><div class="bb_h3">Thank you and have fun!</div></description>
+<link>
+<![CDATA[ https://store.steampowered.com/news/app/2670630/view/4150700295719906820 ]]>
+</link>
+<pubDate>Thu, 22 Feb 2024 16:10:33 +0000</pubDate>
+<guid isPermaLink="true">https://store.steampowered.com/news/app/2670630/view/4150700295719906820</guid>
+</item>
+<item>
+<title>Patch v0.1.0.2</title>
+<description><div class="bb_h2">Hello everyone!</div><br><div class="bb_h2">Thank you for playing Supermarket Simulator.</div><br>This is the patch v0.1.0.2 that includes:<br><br><ul class="bb_ul"><li> Fixed missing characters for Japanese, Korean & Simplified Chinese languages<br></li><li> Adding lights to storage<br></li><li> Visual bugFixes<br></li><li> Moved eggs with 4&12 packs to the fridge (This might create visual bugs on save files if you've put any eggs on shelves but it will be no problem once they're sold)<br></li><li> Fixed "Rack" option not filtering products on computer<br></li><li> Balanced the game</li></ul><br>Please let us know when you encounter any issue on our discord or Steam community so that we can fix it asap.<br><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.com%2Finvite%2FxWD5BfNMMM" target="_blank" rel=" noopener" ><img src="https://clan.akamai.steamstatic.com/images/44731615/122a4bdecba327053fe91125b76cb0ee9dfb75a1.png" /></a><br><br><div class="bb_h3">Thank you and have fun!</div></description>
+<link>
+<![CDATA[ https://store.steampowered.com/news/app/2670630/view/4150700295716401314 ]]>
+</link>
+<pubDate>Wed, 21 Feb 2024 16:53:39 +0000</pubDate>
+<guid isPermaLink="true">https://store.steampowered.com/news/app/2670630/view/4150700295716401314</guid>
+</item>
+<item>
+<title>Patch v0.0.1</title>
+<description><div class="bb_h2">Hello everyone!</div><br><div class="bb_h2">Thank you for playing Supermarket Simulator.</div><br>This is the first quick patch for bugFixes as below:<br><br><ul class="bb_ul"><li> Fixed fridge's freezing when unboxed<br></li><li> Fixed not being able to open the store when upgraded once<br></li><li> Fixed eggs mispositioning in the fridge<br></li><li> Fixed not being able to place checkout counter when carrying<br></li><li> Fixed some translations<br></li><li> Balanced the game</li></ul><br>Please let us know when you encounter any issue on our discord so that we can fix asap.<br><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.com%2Finvite%2FxWD5BfNMMM" target="_blank" rel=" noopener" ><img src="https://clan.akamai.steamstatic.com/images/44731615/122a4bdecba327053fe91125b76cb0ee9dfb75a1.png" /></a><br><br><div class="bb_h3">Thank you and have fun!</div><br></description>
+<link>
+<![CDATA[ https://store.steampowered.com/news/app/2670630/view/7952863750087711148 ]]>
+</link>
+<pubDate>Tue, 20 Feb 2024 21:17:04 +0000</pubDate>
+<guid isPermaLink="true">https://store.steampowered.com/news/app/2670630/view/7952863750087711148</guid>
+</item>
+<item>
+<title>Next Fest Dev Stream #2</title>
+<description><div class="bb_h3">Join us for a special stream where the developer of Supermarket Simulator will play the game LIVE and chat with players!</div><br><img src="https://clan.akamai.steamstatic.com/images/44731615/087b4c2f2fbe6be370cb79bb4737a12f8e5c42e1.png" /><br><br><div class="bb_h3">Don't miss out on the live chat to interact with the developer while experiencing the game in action. See you there!</div><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.com%2Finvite%2FxWD5BfNMMM" target="_blank" rel=" noopener" ><img src="https://clan.akamai.steamstatic.com/images/44731615/122a4bdecba327053fe91125b76cb0ee9dfb75a1.png" /></a></description>
+<link>
+<![CDATA[ https://store.steampowered.com/news/app/2670630/view/4030227738313871381 ]]>
+</link>
+<pubDate>Sat, 10 Feb 2024 10:51:25 +0000</pubDate>
+<guid isPermaLink="true">https://store.steampowered.com/news/app/2670630/view/4030227738313871381</guid>
+<enclosure url="https://clan.akamai.steamstatic.com/images/44731615/01321e0efbfce4047e054446823efa0b41383f7e.png" length="0" type="image/png"/>
+</item>
+<item>
+<title>Next Fest Dev Stream</title>
+<description><div class="bb_h3">Join us for a special stream where the developer of Supermarket Simulator will play the game LIVE and chat with players!</div><br><img src="https://clan.akamai.steamstatic.com/images/44731615/087b4c2f2fbe6be370cb79bb4737a12f8e5c42e1.png" /><br><br><div class="bb_h3">Don't miss out on the live chat to interact with the developer while experiencing the game in action. See you there!</div><br><a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.com%2Finvite%2FxWD5BfNMMM" target="_blank" rel=" noopener" ><img src="https://clan.akamai.steamstatic.com/images/44731615/122a4bdecba327053fe91125b76cb0ee9dfb75a1.png" /></a></description>
+<link>
+<![CDATA[ https://store.steampowered.com/news/app/2670630/view/4030227738306193420 ]]>
+</link>
+<pubDate>Thu, 08 Feb 2024 07:50:02 +0000</pubDate>
+<guid isPermaLink="true">https://store.steampowered.com/news/app/2670630/view/4030227738306193420</guid>
+<enclosure url="https://clan.akamai.steamstatic.com/images/44731615/01321e0efbfce4047e054446823efa0b41383f7e.png" length="0" type="image/png"/>
+</item>
+<item>
+<title>New Release Date</title>
+<description><div class="bb_h1">Hello Supermarket Managers!</div><br>We hope you're as excited as we are about the upcoming release of Supermarket Simulator! Today, we have an important update to share.<br><br><div class="bb_h2">After careful consideration and to ensure the best possible gaming experience</div>We've decided to move our release date to <b>February 20th, 2024</b>. This brief one-week delay will allow us to add some extra content and polish to Supermarket Simulator, ensuring a smoother and more enjoyable experience for all our players.<br><br>We understand that changes in release schedules can be disappointing, but we firmly believe this short extension will significantly enhance your gameplay experience. Your support and understanding mean the world to us as we make these final adjustments.<br><br><div class="bb_h3">Feel free to try the DEMO or Supermarket Simulator: Prologue</div><a class="bb_link" href="https://store.steampowered.com/app/2772560/Supermarket_Simulator_Prologue/" target="_blank" rel="" >https://store.steampowered.com/app/2772560/Supermarket_Simulator_Prologue/</a><br><br><div class="bb_h3">We can't wait for you to run your own supermarket and create your unique retail empire.</div><br>Thank you for your continued support and enthusiasm. We're almost there, and we promise it will be worth the wait!<br><br>Warm regards,<br>Nokta Games</description>
+<link>
+<![CDATA[ https://store.steampowered.com/news/app/2670630/view/3984064573340659008 ]]>
+</link>
+<pubDate>Mon, 29 Jan 2024 11:38:21 +0000</pubDate>
+<guid isPermaLink="true">https://store.steampowered.com/news/app/2670630/view/3984064573340659008</guid>
+<enclosure url="https://clan.akamai.steamstatic.com/images/44731615/16302184282139a2b5755e60f19ed8be99ce252e.png" length="0" type="image/png"/>
+</item>
+<item>
+<title>DEMO</title>
+<description><div class="bb_h1">Hey all!</div><div class="bb_h2">The demo has been released!</div><img src="https://clan.akamai.steamstatic.com/images/44731615/2cfd920ab7278037c847250ec8d274d28b1b30b3.png" /><br>You can jump into Supermarket Simulator finally. <br><img src="https://clan.akamai.steamstatic.com/images/44731615/46bfafe804d2a82f17bc02714f6188c9b58b7869.jpg" /><br><div class="bb_h3">Supply goods, stock shelves, set prices carefully, make the most profit! Don't forget to keep some money for daily expenses to avoid BANKRUPTING!</div><br>HAVE FUN!</description>
+<link>
+<![CDATA[ https://store.steampowered.com/news/app/2670630/view/3976182640090704886 ]]>
+</link>
+<pubDate>Thu, 18 Jan 2024 09:30:30 +0000</pubDate>
+<guid isPermaLink="true">https://store.steampowered.com/news/app/2670630/view/3976182640090704886</guid>
+<enclosure url="https://clan.akamai.steamstatic.com/images/44731615/43315dca9f4e765a651357ef2641958d85b44bfc.png" length="0" type="image/png"/>
+</item>
+<item>
+<title>Supermarket Simulator: Prologue</title>
+<description><div class="bb_h2">Hello,</div><br><div class="bb_h3">We're happy to announce that the <b>Supermarket Simulator: Prologue</b> store page has been released!</div><br><a class="bb_link" href="https://store.steampowered.com/app/2772560/Supermarket_Simulator_Prologue/" target="_blank" rel="" >https://store.steampowered.com/app/2772560/Supermarket_Simulator_Prologue/</a><br><br><div class="bb_h3">The Prologue will be free and released very soon! </div><br><img src="https://clan.akamai.steamstatic.com/images/44731615/da8b1ca645f41cd6e8db23975ee738b39ef09715.gif" /><br><br><div class="bb_h3">Make sure to wishlist it too so you won't miss when it's released.</div><br><div class="bb_h2">See you soon!</div></description>
+<link>
+<![CDATA[ https://store.steampowered.com/news/app/2670630/view/6915906760360875349 ]]>
+</link>
+<pubDate>Sat, 13 Jan 2024 12:49:39 +0000</pubDate>
+<guid isPermaLink="true">https://store.steampowered.com/news/app/2670630/view/6915906760360875349</guid>
+<enclosure url="https://clan.akamai.steamstatic.com/images/44731615/0ba9de88816c2b010616c8a3d55bb85316bb0856.png" length="0" type="image/png"/>
+</item>
+</channel>
+</rss>
